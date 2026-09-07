@@ -160,7 +160,7 @@ Created an interactive dashboard featuring:
 excel-sales-performance-dashboard/
 │
 ├── data/
-│   └── Superstore_Sales.xlsx
+│   └── Superstore_Sales.csv
 │
 ├── dashboard/
 │   └── Excel_Sales_Performance_Dashboard.xlsx
