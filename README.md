@@ -3,7 +3,7 @@
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-## Overview
+## 🚀 Project overview
 
 This project is an interactive **Sales Performance Dashboard** built entirely in **Microsoft Excel** using the Superstore dataset.
 
