@@ -84,7 +84,7 @@ Users can dynamically filter the dashboard using:
 
 The project uses the **Sample Superstore Dataset** containing approximately:
 
-* 9,994 Orders
+* 5,009 Orders
 * Customer Information
 * Product Information
 * Sales Data
