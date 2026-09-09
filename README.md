@@ -9,7 +9,7 @@ In this project, I built an interactive **Sales Performance Dashboard** entirely
 
 My objective was to turn raw transactional data into an interactive business intelligence dashboard that monitors sales performance, uncovers key trends, and supports data-driven decision-making.
 
-The dashboard combines **Pivot Tables**, **Pivot Charts**, **KPI Cards**, **Slicers**, and **Interactive Filters** to provide a comprehensive view of business performance.
+I combined **PivotTables**, **PivotCharts**, **KPI Cards**, **Slicers**, and other **interactive filters** to provide a comprehensive view of business performance.
 
 ---
 
