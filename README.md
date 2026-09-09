@@ -7,7 +7,7 @@
 
 This project is an interactive **Sales Performance Dashboard** built entirely in **Microsoft Excel** using the Superstore dataset.
 
-The objective was to transform raw transactional data into a professional business intelligence dashboard capable of tracking sales performance, identifying trends, and supporting data-driven decision making.
+My objective was to turn raw transactional data into an interactive business intelligence dashboard that monitors sales performance, uncovers key trends, and supports data-driven decision-making.
 
 The dashboard combines **Pivot Tables**, **Pivot Charts**, **KPI Cards**, **Slicers**, and **Interactive Filters** to provide a comprehensive view of business performance.
 
