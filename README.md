@@ -5,7 +5,7 @@
 
 ## 🚀 Project overview
 
-This project is an interactive **Sales Performance Dashboard** built entirely in **Microsoft Excel** using the Superstore dataset.
+In this project, I built an interactive **Sales Performance Dashboard** entirely in **Microsoft Excel**, using the Superstore dataset to analyze sales, profitability, customer segments, product performance, and regional trends.
 
 My objective was to turn raw transactional data into an interactive business intelligence dashboard that monitors sales performance, uncovers key trends, and supports data-driven decision-making.
 
